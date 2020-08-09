@@ -1,2 +1,2 @@
-# screener
+# screneer
 Filters stocks
